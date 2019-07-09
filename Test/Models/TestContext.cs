@@ -15,7 +15,7 @@ namespace Test.Models
         // For more information refer to the documentation:
         // http://msdn.microsoft.com/en-us/data/jj591621.aspx
     
-        public TestContext() : base("name=TestContext")
+        public TestContext() : base("TestContext")
         {
         }
 
